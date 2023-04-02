@@ -1,0 +1,3 @@
+# time  created  delivered  delivered/created
+25162.0000 1282 732 0.5710
+25183.0000 1283 732 0.5705

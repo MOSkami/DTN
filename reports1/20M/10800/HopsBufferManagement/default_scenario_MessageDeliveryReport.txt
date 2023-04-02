@@ -1,0 +1,3 @@
+# time  created  delivered  delivered/created
+10768.0000 549 422 0.7687
+10788.0000 550 422 0.7673

@@ -1,0 +1,4 @@
+# time  created  delivered  delivered/created
+9550.0000 489 361 0.7382
+9573.0000 490 361 0.7367
+9591.0000 491 361 0.7352

@@ -1,0 +1,4 @@
+#the average buffer utility for each node during the whole simulation
+hostid bufferSize bufferUsedAvg bufferUtilityRatioAvg
+Avg 5000000.0 14139395.8190 94.5650
+

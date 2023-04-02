@@ -1,0 +1,4 @@
+# time  created  delivered  delivered/created
+5953.0000 303 102 0.3366
+5971.0000 304 102 0.3355
+5986.0000 305 102 0.3344

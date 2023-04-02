@@ -1,0 +1,4 @@
+# time  created  delivered  delivered/created
+7163.0000 366 130 0.3552
+7180.0000 367 130 0.3542
+7197.0000 368 130 0.3533

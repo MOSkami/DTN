@@ -1,0 +1,3 @@
+# time  created  delivered  delivered/created
+23961.0000 1221 499 0.4087
+23981.0000 1222 499 0.4083

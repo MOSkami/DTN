@@ -1,0 +1,4 @@
+# time  created  delivered  delivered/created
+4751.7000 241 87 0.3610
+4762.0000 242 87 0.3595
+4783.0000 243 87 0.3580

@@ -1,0 +1,4 @@
+# time  created  delivered  delivered/created
+3552.0000 180 85 0.4722
+3570.0000 181 85 0.4696
+3589.0000 182 85 0.4670
